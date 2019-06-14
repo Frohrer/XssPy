@@ -1,4 +1,4 @@
-# XssPy - Web Application XSS Scanner
+# XssPy - Web Application XSS Scanner (Python 3 rework fork)
 A tool by Fsecurify
 
 Author: Faizan Ahmad 
